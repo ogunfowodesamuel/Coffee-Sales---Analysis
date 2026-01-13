@@ -12,6 +12,6 @@ Explores trends and pattern using interactive dashboard.
 - Interactive Visualization
 
 ## Preview 
-[Dashboard Screenshot] (https://github.com/ogunfowodesamuel/Coffee-Sales---Analysis/blob/main/coffee%20dashboard.png)
+[Dashboard Screenshot](https://github.com/ogunfowodesamuel/Coffee-Sales---Analysis/blob/main/coffee%20dashboard.png)
 > Click link above to preview dashboard
 
